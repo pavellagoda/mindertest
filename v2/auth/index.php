@@ -107,6 +107,6 @@ $a = array(
     'locationUpdatedAt' => '2016-07-05T12:34:59.653Z',
     'updatedAt' => '2016-07-05T12:54:59.146Z',
 );
-//sleep(40);
+sleep(40);
 echo json_encode($a);
 ?>
