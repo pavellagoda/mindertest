@@ -1,6 +1,6 @@
 <?php
 
-$a=array (
+$a = array (
   0 => 
   array (
     'id' => 100930,
@@ -12,7 +12,7 @@ $a=array (
     'gender' => 'female',
     'userId' => 'uEjbd8gLoYz65i6r4',
     'greeting' => NULL,
-    'aboutMe' => 'If we match and don't chat, then what's the point in that?',
+    'aboutMe' => 'If we match and dont chat, then whats the point in that?',
     'facebookId' => '10152731402551765',
     'discoverable' => true,
     'occupation' => NULL,
@@ -67,9 +67,9 @@ $a=array (
     'gender' => 'female',
     'userId' => 'ZHvwhxTk7h4e8crth',
     'greeting' => 'Assalamu alaykum!',
-    'aboutMe' => 'I'm a fun loving girl looking for the right person to spend the rest of my life with! Looking for someone who is selfless, kind, intelligent and religious. Some of my hobbies are watching scary movies, ping pong, and all things DIY!
+    'aboutMe' => 'Im a fun loving girl looking for the right person to spend the rest of my life with! Looking for someone who is selfless, kind, intelligent and religious. Some of my hobbies are watching scary movies, ping pong, and all things DIY!
 
-If Islam isn't your top priority in life, please swipe left! Jazakum Allahu Khayrun!',
+If Islam isnt your top priority in life, please swipe left! Jazakum Allahu Khayrun!',
     'facebookId' => '10153838201209675',
     'discoverable' => true,
     'occupation' => 'Medical student',
@@ -153,7 +153,7 @@ If Islam isn't your top priority in life, please swipe left! Jazakum Allahu Khay
     'gender' => 'female',
     'userId' => 'g8s288PKgbiEs9J4q',
     'greeting' => NULL,
-    'aboutMe' => 'I'm a well traveled investment banker who enjoys being healthy; I work out so I can pig out.',
+    'aboutMe' => 'Im a well traveled investment banker who enjoys being healthy; I work out so I can pig out.',
     'facebookId' => '10104097448826558',
     'discoverable' => true,
     'occupation' => 'M&A Associate',
@@ -318,7 +318,7 @@ If Islam isn't your top priority in life, please swipe left! Jazakum Allahu Khay
     'gender' => 'female',
     'userId' => 'KScBPgHLCAYctKY3b',
     'greeting' => 'Time to look for Mr Right 😉',
-    'aboutMe' => 'I'm from Jersey! I could be the nicest girl you have ever met or could be the most ratchet one so it depends on how you will treat me!',
+    'aboutMe' => 'Im from Jersey! I could be the nicest girl you have ever met or could be the most ratchet one so it depends on how you will treat me!',
     'facebookId' => '10204668281569231',
     'discoverable' => true,
     'occupation' => NULL,
@@ -497,7 +497,7 @@ If Islam isn't your top priority in life, please swipe left! Jazakum Allahu Khay
       12 => 
       array (
         'id' => '50245567013',
-        'name' => 'McDonald's',
+        'name' => 'McDonalds',
         'category' => 'Food/Beverages',
         'created_time' => '2015-06-08T21:47:16+0000',
       ),
@@ -511,7 +511,7 @@ If Islam isn't your top priority in life, please swipe left! Jazakum Allahu Khay
       14 => 
       array (
         'id' => '143762855657089',
-        'name' => 'POND'S',
+        'name' => 'PONDS',
         'category' => 'Health/Beauty',
         'created_time' => '2015-05-23T04:30:04+0000',
       ),
@@ -657,8 +657,8 @@ If Islam isn't your top priority in life, please swipe left! Jazakum Allahu Khay
   5 => 
   array (
     'id' => 64755,
-    'name' => 'La'eeqa Aslam',
-    'first_name' => 'La'eeqa',
+    'name' => 'Laeeqa Aslam',
+    'first_name' => 'Laeeqa',
     'last_name' => 'Aslam',
     'locale' => 'en_US',
     'country' => 'US',
@@ -880,7 +880,7 @@ That religious meter though 😔
       12 => 
       array (
         'id' => '186490535046477',
-        'name' => 'Nido's Cheesecake',
+        'name' => 'Nidos Cheesecake',
         'category' => 'Restaurant/Cafe',
         'created_time' => '2016-02-24T22:20:10+0000',
         'category_list' => 
@@ -957,14 +957,14 @@ That religious meter though 😔
       20 => 
       array (
         'id' => '56409284212',
-        'name' => 'BJ's Restaurant and Brewhouse',
+        'name' => 'BJs Restaurant and Brewhouse',
         'category' => 'Food/Beverages',
         'created_time' => '2015-09-29T03:39:42+0000',
       ),
       21 => 
       array (
         'id' => '17648521247',
-        'name' => 'Kohl's',
+        'name' => 'Kohls',
         'category' => 'Retail and Consumer Merchandise',
         'created_time' => '2015-09-14T05:56:12+0000',
       ),
@@ -1060,12 +1060,12 @@ That religious meter though 😔
 
 Writing about myself is not my strong suit but here goes. 
 
-I'm a huge animal lover and have two dogs. If you don't like animals, I'm not the person for you. 
-I'm big on family and enjoy hanging out with my parents and sisters. 
+Im a huge animal lover and have two dogs. If you dont like animals, Im not the person for you. 
+Im big on family and enjoy hanging out with my parents and sisters. 
 I love music festivals, beaches, traveling, hookah, and going to the gym.  
 
-I'm not quite sure how some of you all look like a complete different person in each picture posted...😩😳
-Please do not match with me if you can't hold a conversation or if you need validation from Minder that girls find you attractive. Exhausted from men like that. Take it as you will. ',
+Im not quite sure how some of you all look like a complete different person in each picture posted...😩😳
+Please do not match with me if you cant hold a conversation or if you need validation from Minder that girls find you attractive. Exhausted from men like that. Take it as you will. ',
     'facebookId' => '10103186357131657',
     'discoverable' => true,
     'occupation' => 'Government',
@@ -1250,7 +1250,7 @@ Please do not match with me if you can't hold a conversation or if you need vali
       7 => 
       array (
         'id' => '129655677063088',
-        'name' => 'Cayman's',
+        'name' => 'Caymans',
         'category' => 'Local Business',
         'created_time' => '2016-01-24T23:50:08+0000',
         'category_list' => 
@@ -1453,7 +1453,7 @@ Please do not match with me if you can't hold a conversation or if you need vali
     'gender' => 'female',
     'userId' => 'reg7X6YWzay2uS2zQ',
     'greeting' => 'Trying to avoid marrying my cousin...',
-    'aboutMe' => 'Im the biryani and you're the plain white rice.',
+    'aboutMe' => 'Im the biryani and youre the plain white rice.',
     'facebookId' => '10205070664620765',
     'discoverable' => true,
     'occupation' => NULL,
@@ -1752,7 +1752,7 @@ Please do not match with me if you can't hold a conversation or if you need vali
       24 => 
       array (
         'id' => '303379526361326',
-        'name' => 'CCSU Ruthe Boyea Women's Center',
+        'name' => 'CCSU Ruthe Boyea Womens Center',
         'category' => 'Organization',
         'created_time' => '2015-02-05T18:50:50+0000',
         'category_list' => 
@@ -1760,7 +1760,7 @@ Please do not match with me if you can't hold a conversation or if you need vali
           0 => 
           array (
             'id' => '182582595112411',
-            'name' => 'Women's Health',
+            'name' => 'Womens Health',
           ),
           1 => 
           array (
@@ -1786,7 +1786,7 @@ Please do not match with me if you can't hold a conversation or if you need vali
     'gender' => 'female',
     'userId' => NULL,
     'greeting' => 'Life is all about taking chances',
-    'aboutMe' => 'I'm not here to validate my ego, just looking for someone I can connect with. If we match just say hi.',
+    'aboutMe' => 'Im not here to validate my ego, just looking for someone I can connect with. If we match just say hi.',
     'facebookId' => '10152800901503379',
     'discoverable' => true,
     'occupation' => NULL,
@@ -2740,8 +2740,8 @@ food, exploring, learning',
     'country' => 'US',
     'gender' => 'female',
     'userId' => 'JjzNbwRbPqNbZywfq',
-    'greeting' => 'Hello... I'm INFP',
-    'aboutMe' => 'My name is Sara. I'm on minder because my friends wanted to live vicariously through me. Let's see how this experiment goes.',
+    'greeting' => 'Hello... Im INFP',
+    'aboutMe' => 'My name is Sara. Im on minder because my friends wanted to live vicariously through me. Lets see how this experiment goes.',
     'facebookId' => '10106456232589954',
     'discoverable' => true,
     'occupation' => 'Multimedia Editor',
@@ -2846,7 +2846,7 @@ food, exploring, learning',
       12 => 
       array (
         'id' => '11859103092',
-        'name' => 'L'OCCITANE en Provence',
+        'name' => 'LOCCITANE en Provence',
         'category' => 'Health/beauty',
       ),
       13 => 
@@ -3102,7 +3102,7 @@ food, exploring, learning',
       12 => 
       array (
         'id' => '447898215387659',
-        'name' => 'Glam'd',
+        'name' => 'Glamd',
         'category' => 'Spas/Beauty/Personal Care',
         'created_time' => '2016-04-15T17:45:06+0000',
         'category_list' => 
@@ -3303,7 +3303,7 @@ food, exploring, learning',
       0 => 
       array (
         'id' => '762969333840434',
-        'name' => 'Huda's Couture',
+        'name' => 'Hudas Couture',
         'category' => 'Clothing',
         'created_time' => '2016-06-11T02:56:07+0000',
       ),
@@ -3426,7 +3426,7 @@ food, exploring, learning',
           1 => 
           array (
             'id' => '128753240528981',
-            'name' => 'Women's Clothing Store',
+            'name' => 'Womens Clothing Store',
           ),
           2 => 
           array (
@@ -3481,7 +3481,7 @@ food, exploring, learning',
       18 => 
       array (
         'id' => '17648521247',
-        'name' => 'Kohl's',
+        'name' => 'Kohls',
         'category' => 'Retail and Consumer Merchandise',
         'created_time' => '2012-09-06T02:14:50+0000',
       ),
@@ -3495,7 +3495,7 @@ food, exploring, learning',
       20 => 
       array (
         'id' => '307761712642922',
-        'name' => 'Maddie's Accessories',
+        'name' => 'Maddies Accessories',
         'category' => 'Jewelry/Watches',
         'created_time' => '2012-06-07T13:13:48+0000',
       ),
@@ -3718,7 +3718,7 @@ food, exploring, learning',
           0 => 
           array (
             'id' => '128753240528981',
-            'name' => 'Women's Clothing Store',
+            'name' => 'Womens Clothing Store',
           ),
           1 => 
           array (
@@ -3749,7 +3749,7 @@ food, exploring, learning',
       14 => 
       array (
         'id' => '866319746788528',
-        'name' => 'Binti's Salon',
+        'name' => 'Bintis Salon',
         'category' => 'Spas/Beauty/Personal Care',
         'created_time' => '2016-01-26T03:13:02+0000',
         'category_list' => 
@@ -3862,7 +3862,7 @@ food, exploring, learning',
           1 => 
           array (
             'id' => '128753240528981',
-            'name' => 'Women's Clothing Store',
+            'name' => 'Womens Clothing Store',
           ),
         ),
       ),
@@ -4011,7 +4011,7 @@ food, exploring, learning',
       12 => 
       array (
         'id' => '718012318314640',
-        'name' => 'Azmi's Makeover Studio',
+        'name' => 'Azmis Makeover Studio',
         'category' => 'Health/beauty',
       ),
       13 => 
@@ -4104,7 +4104,7 @@ food, exploring, learning',
     'userId' => 'P9ARrfbWGaE5Ss8gF',
     'greeting' => 'not going to add you on Snapchat',
     'aboutMe' => 'I am quick witted, quirky, and appreciative of irony. Always looking at the bright side of situations and appreciate that aspect in others. Occasionally like to bust out into a song when inspired. 
-I'm currently studying for my PhD in epidemiology at University of South Carolina. I am originally Palestinian, and I was born and raised in Saudi Arabia in an American compound. I would not trade my upbringing in Saudi for anything because I was given the opportunity to travel and meet people from all different backgrounds and cultures! I pursued both my bachelors and masters degrees at UT Austin (Hook em'!!) and lived there for 8 years.
+Im currently studying for my PhD in epidemiology at University of South Carolina. I am originally Palestinian, and I was born and raised in Saudi Arabia in an American compound. I would not trade my upbringing in Saudi for anything because I was given the opportunity to travel and meet people from all different backgrounds and cultures! I pursued both my bachelors and masters degrees at UT Austin (Hook em!!) and lived there for 8 years.
 I am looking for an intelligent, understanding, supportive man who is ambitious and is always looking to make the best out of every situation! If you can make me laugh out loud, you have my attention ;)',
     'facebookId' => '10155471357355511',
     'discoverable' => true,
@@ -4977,7 +4977,7 @@ I am looking for an intelligent, understanding, supportive man who is ambitious 
           0 => 
           array (
             'id' => '128753240528981',
-            'name' => 'Women's Clothing Store',
+            'name' => 'Womens Clothing Store',
           ),
           1 => 
           array (
@@ -5037,9 +5037,9 @@ I am looking for an intelligent, understanding, supportive man who is ambitious 
     'gender' => 'female',
     'userId' => '5K7SGeG8B5Rw9WbtK',
     'greeting' => 'Salaams, I come in peace 👾',
-    'aboutMe' => 'Let's get the boring part out of the way. I'm 23 years old, with a bachelor's in English. I've got a sister and brother, and life is grand.
+    'aboutMe' => 'Lets get the boring part out of the way. Im 23 years old, with a bachelors in English. Ive got a sister and brother, and life is grand.
 
-Off key, I like video games and I'm boring.',
+Off key, I like video games and Im boring.',
     'facebookId' => '10153111978115071',
     'discoverable' => true,
     'occupation' => NULL,
@@ -5298,7 +5298,7 @@ Off key, I like video games and I'm boring.',
     'gender' => 'female',
     'userId' => 'ShAhmGki7oQZ7PwX8',
     'greeting' => 'physician in NYC',
-    'aboutMe' => 'Hi! I live in NYC (but open to relocating for the right person). I'm a physician by day (just finished up my training), but love adventures, exploring the city, trying new restaurants, biking, trivia, travelling, and current events. I'm easygoing and optimistic about life. My relationship with Allah (swt) is a personal and humbling one.',
+    'aboutMe' => 'Hi! I live in NYC (but open to relocating for the right person). Im a physician by day (just finished up my training), but love adventures, exploring the city, trying new restaurants, biking, trivia, travelling, and current events. Im easygoing and optimistic about life. My relationship with Allah (swt) is a personal and humbling one.',
     'facebookId' => '115646932127104',
     'discoverable' => true,
     'occupation' => 'Physician',
@@ -5411,7 +5411,7 @@ Off key, I like video games and I'm boring.',
     'gender' => 'female',
     'userId' => 'tqjD8vRautaWL8br7',
     'greeting' => 'Hello',
-    'aboutMe' => 'I'm 22, Pakistani, a BSU and ΑΣΤ alumna. I like to stay active, read and follow the arts. Probably the shareef-est girl you'll ever meet.',
+    'aboutMe' => 'Im 22, Pakistani, a BSU and ΑΣΤ alumna. I like to stay active, read and follow the arts. Probably the shareef-est girl youll ever meet.',
     'facebookId' => '10203957907147263',
     'discoverable' => true,
     'occupation' => NULL,
@@ -5662,7 +5662,7 @@ Off key, I like video games and I'm boring.',
       22 => 
       array (
         'id' => '329699850420983',
-        'name' => 'Alliance Française d'Islamabad',
+        'name' => 'Alliance Française dIslamabad',
         'category' => 'Education',
         'created_time' => '2015-11-16T06:45:23+0000',
         'category_list' => 
@@ -6027,6 +6027,6 @@ Off key, I like video games and I'm boring.',
     'miles' => 2263,
   ),
 );
-//sleep(40);
+sleep(40);
 echo json_encode($a);
 ?>
